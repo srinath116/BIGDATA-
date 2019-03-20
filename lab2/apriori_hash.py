@@ -1,9 +1,3 @@
-# ----------------------------------------------------------------------------------------------------------
-# WRITTEN BY: Ruchi Saha  ( https://github.com/ruchi09 )
-#
-# PROBLEM STATEMENT: This program implements the improved apriori using hashing
-#
-# ------------------------------------------------------------------------------------------------------------------
 
 
 from __future__ import division

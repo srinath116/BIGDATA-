@@ -1,12 +1,3 @@
-# ----------------------------------------------------------------------------------------------------------
-#
-# WRITTEN BY: Ruchi Saha   ( https://github.com/ruchi09 )
-#
-# PROBLEM STATEMENT: This program generates the dataset to be used by programs in this repository.
-#                    It can generate the dataset for both classifier and ARM (by commenting the appropriate
-#                     statements ).
-#
-# ------------------------------------------------------------------------------------------------------------------
 
 
 import random as r

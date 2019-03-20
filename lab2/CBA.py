@@ -1,14 +1,3 @@
-# ----------------------------------------------------------------------------------------------------------
-# WRITTEN BY: Ruchi Saha     ( https://github.com/ruchi09 )
-#
-# PROBLEM STATEMENT: This program implements the CBA (Classification Based
-#                     on Associations) Algorithm
-#
-# REFERENCE: Liu, B., Hsu, W. & Ma, Y. 1998. Integrating classification
-#            and association rule mining. # KDD-98.
-#
-# ------------------------------------------------------------------------------------------------------------------
-
 
 
 # -------------------------------------------------------------------------------------------------------------------

@@ -1,10 +1,3 @@
-# ----------------------------------------------------------------------------------------------------------
-# WRITTEN BY: Ruchi Saha ( https://github.com/ruchi09 )
-#
-# PROBLEM STATEMENT: This program implements the improved apriori using partitioning
-#
-# ------------------------------------------------------------------------------------------------------------------
-
 
 from __future__ import division
 from collections import namedtuple
